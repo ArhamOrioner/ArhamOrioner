@@ -66,3 +66,5 @@ I love blending **civil engineering, remote sensing, and machine learning** to t
 
 ---
 ⭐️ *Fun fact: I enjoy turning raw satellite pixels into **real-world impact maps***  
+
+<iframe src="https://github.com/sponsors/ArhamOrioner/card" title="Sponsor ArhamOrioner" height="225" width="600" style="border: 0;"></iframe>
